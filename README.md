@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm George 👋
 
-<!--
-**D1AS/D1AS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A dedicated back-end and game developer transitioning into mobile application development, currently pursuing a Post-Graduate Diploma in Mobile Application Development and Strategy at George Brown College. Seeking a co-op opportunity to apply and enhance my skills, gain hands-on industry experience, and contribute meaningfully to organizational goals through innovative mobile solutions.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills & Technologies
+
+- **Languages:** Swift, Kotlin, C#, JavaScript, HTML, CSS
+- **Frameworks & Libraries:** SwiftUI, UIKit, React Native, Node.js, Express, EJS, ASP.NET Core
+- **Tools:** Xcode, Android Studio, Visual Studio Code, IntelliJ, Git, Jira, SQL Server, Firebase, MongoDB, Mongoose, Room, SQLite, TestFlight
+- **Other:** SDLC, RESTful APIs, MVC
+
+
+## 🔗 Let's Connect!
+
+I'm always excited to collaborate on innovative projects or discuss the latest in mobile app development. Feel free to reach out!
+
+<a href='https://www.linkedin.com/in/georgepotakis/'><img src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg' alt='LinkedIn' width='22' height='22'/></a>&nbsp;&nbsp;
+<a href='mailto:gpotakis@gmail.com'><img src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg' alt='Email' width='22' height='22'/></a>
+
+
+
+
