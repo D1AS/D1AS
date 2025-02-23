@@ -1,6 +1,6 @@
 # Hi there, I'm George 👋
 
-A dedicated back-end and game developer transitioning into mobile application development, currently pursuing a Post-Graduate Diploma in Mobile Application Development and Strategy at George Brown College. Seeking a co-op opportunity to apply and enhance my skills, gain hands-on industry experience, and contribute meaningfully to organizational goals through innovative mobile solutions.
+A dedicated back-end and game developer transitioning into mobile application development, currently pursuing a Post-Graduate program in Mobile Application Development and Strategy at George Brown College. Seeking a co-op opportunity to apply and enhance my skills, gain hands-on industry experience, and contribute meaningfully to organizational goals through innovative mobile solutions.
 
 
 ## 🚀 Skills & Technologies
